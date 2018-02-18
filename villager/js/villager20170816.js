@@ -2251,7 +2251,7 @@ p.nominalBounds = null;
 			localStorage.receivemode = "no";
 			localStorage.csiturn = "on";
 			localStorage.itemchoosetarget = "A";
-			window.open("http://lab.imbottle.com/list/?t=728c4115019631e8d5886b8718eafe75", "_self");
+			window.open("http://lab.imbottle.com/list/?t=5ed4b065a971bd808d86160cb91c93b3", "_self");
 		}
 		
 		
@@ -2261,7 +2261,7 @@ p.nominalBounds = null;
 			localStorage.receivemode = "no";
 			localStorage.csiturn = "on";
 			localStorage.itemchoosetarget = "B";
-			window.open("http://lab.imbottle.com/list/?t=728c4115019631e8d5886b8718eafe75", "_self");
+			window.open("http://lab.imbottle.com/list/?t=5ed4b065a971bd808d86160cb91c93b3", "_self");
 		
 		}
 		
@@ -2271,7 +2271,7 @@ p.nominalBounds = null;
 			localStorage.receivemode = "no";
 			localStorage.csiturn = "on";
 			localStorage.itemchoosetarget = "C";
-			window.open("http://lab.imbottle.com/list/?t=728c4115019631e8d5886b8718eafe75", "_self");
+			window.open("http://lab.imbottle.com/list/?t=5ed4b065a971bd808d86160cb91c93b3", "_self");
 		
 		}
 		
