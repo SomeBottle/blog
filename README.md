@@ -16,7 +16,6 @@ also i like editing videos, especially Flash funny stories.
 * Server Management
 * Good good study day day up.
 ## Many social media
-Facebook: Wang Shanmin
 Weibo: SomeBottle
-QQ: 583797659
+QQ: 5837****
 ####### Markdown by ycwei982
